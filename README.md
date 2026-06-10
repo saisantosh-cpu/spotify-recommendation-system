@@ -1,6 +1,4 @@
 # spotify-recommendation-system
-# Spotify Recommendation System
-
 A content-based music recommendation system built using Spotify audio features and machine learning techniques. The system recommends songs that are similar to a given track based on their audio characteristics.
 
 ## Overview
